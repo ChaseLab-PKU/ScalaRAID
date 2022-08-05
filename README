@@ -1,3 +1,7 @@
 1. Just use these files to replace the corresponding files in the kernel (`pathtokernel/drivers/md`).
 2. `cd pathtokernel/drivers/md` and `make`.
+<<<<<<< HEAD
 3. Install the output modules `md-mod.o` and `raid456.o`.
+=======
+3. Install the output modules `md-mod.o` and `raid456.o`.
+>>>>>>> 0605b5b9e12c3f16d1cc962e091997fd7c8790e6
