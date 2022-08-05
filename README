@@ -1,1 +1,3 @@
-We will reorganize this repository and provide a detailed README as soon as possible.
+1. Just use these files to replace the corresponding files in the kernel (`pathtokernel/drivers/md`).
+2. `cd pathtokernel/drivers/md` and `make`.
+3. Install the output modules `md-mod.o` and `raid456.o`.
