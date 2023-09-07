@@ -1,3 +1,5 @@
+# ScalaRAID
+
 ScalaRAID is an optimization for Linux software RAID engine (i.e., mdraid), which refines the role domain of locks and designs a new data structure to prevent different threads from preempting the RAID resources. By doing so, ScalaRAID can maximize the thread-level parallelism and reduce the time consumption of I/O request handling.
 
 ## Build
