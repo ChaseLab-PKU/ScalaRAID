@@ -20,4 +20,4 @@ The BibTex is shown below:
 ```
 
 ## Contact
-Feel free to contact Shushu Yi(firnyee@gmail.com) if you have any questions.
+Feel free to contact Shushu Yi (firnyee@gmail.com) if you have any questions.
